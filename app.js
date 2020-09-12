@@ -14,7 +14,7 @@ function readQR(rawImageData) {
     console.log("Found QR code", code);
 }
 
-modules.export = {
+module.export = {
     readImg,
     readQR
 }
