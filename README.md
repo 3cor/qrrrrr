@@ -5,7 +5,13 @@ There are two functions:
 readImg: receive FILE_PATH.jpg and return object in [ImageData](https://developer.mozilla.org/en-US/docs/Web/API/ImageData) format.
 readQR: receive ImageData (from readImg) and return QR code data.
 
-# How to use
+Try it on command-line:
+
+```
+node test.js IMG_FILE.jpg
+```
+
+# How to use it in applications
 
 Read image file and get QR code data to qrData
 
