@@ -1,6 +1,6 @@
-# tsqr-reader
+# qrrrrr
 
-TypScript QR Code reader? No, this is TSQR Reader - Too Simple Quick Response (Code) Reader.
+A simple wrapper functions for [jsqr](https://github.com/cozmo/jsQR) and [jpeg-js](https://www.npmjs.com/package/jpeg-js).
 
 There are two functions:
 
